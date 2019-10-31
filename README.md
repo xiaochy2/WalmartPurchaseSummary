@@ -1,2 +1,0 @@
-# WalmartPurchaseSummary
-Created with CodeSandbox
